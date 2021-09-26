@@ -9,6 +9,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
     <link rel="stylesheet" href="css/mng.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <title>Restaurant Website</title>
 </head>
@@ -17,22 +18,22 @@
     <!-- Header -->
     <ul class="nav justify-content-center">
         <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
+            <a class="nav-link active" aria-current="page" href="home.php">Home</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" href="#">Admin</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Categories</a>
+            <a class="nav-link" href="mng_category.php">Categories</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Food</a>
+            <a class="nav-link active" aria-current="page" href="mng_food.php">Food</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Order</a>
+            <a class="nav-link" href="mng_order.php">Order</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" href="#">Logout</a>
+            <a class="nav-link" href="home.php">Logout</a>
         </li>
     </ul>
     <!-- end Header -->
