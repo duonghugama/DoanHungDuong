@@ -38,7 +38,7 @@
     <!-- Table -->
     <div class="container mys">
         <h1>Manage Food</h1>
-        <button type="button" class="btn btn-primary" style="cursor: pointer;">Add Food</button>
+        <button type="button" class="button-table" style="cursor: pointer;">Add Food</button>
         <table class="table">
             <thead>
                 <tr>
